@@ -6,7 +6,7 @@ Hello world!
 
 ## Welcome to our interview process!
 
-If you are here you are likely going through our interview process. We hope your a Minder soon!
+If you are here you are likely going through our interview process. We hope you're a Minder soon!
 
 ## Want to know more about us?
 - [Website](https://mindera.com)
